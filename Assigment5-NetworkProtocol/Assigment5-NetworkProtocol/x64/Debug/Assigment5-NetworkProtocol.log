@@ -1,0 +1,9 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  source.c
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Assigment5-NetworkProtocol\Assigment5-NetworkProtocol\source.c(26,25): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Assigment5-NetworkProtocol\Assigment5-NetworkProtocol\source.c(53,29): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Assigment5-NetworkProtocol\Assigment5-NetworkProtocol\source.c(82,38): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Assigment5-NetworkProtocol\Assigment5-NetworkProtocol\source.c(86,9): warning C4013: 'close' undefined; assuming extern returning int
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Assigment5-NetworkProtocol\Assigment5-NetworkProtocol\source.c(58,52): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Assigment5-NetworkProtocol\Assigment5-NetworkProtocol\source.c(77,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Assigment5-NetworkProtocol.vcxproj -> C:\Users\ryanr\OneDrive\Desktop\cFiles\Assigment5-NetworkProtocol\x64\Debug\Assigment5-NetworkProtocol.exe
